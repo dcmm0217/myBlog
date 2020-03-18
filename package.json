@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/DC19950217/myBlog/issues"
   },
-  "homepage": "https://github.com/DC19950217/myBlog#readme"
+  "homepage": "https://github.com/DC19950217/myBlog#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
