@@ -19,7 +19,7 @@
   "homepage": "https://github.com/DC19950217/myBlog#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1"
   }
 }
